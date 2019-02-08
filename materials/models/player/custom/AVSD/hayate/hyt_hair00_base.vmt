@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/AVSD/hayate/hyt_hair00_base"
+
+$translucent "1"				
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/AVSD/rig/gls_b1_glass_col"
+$translucent "1"		
+}

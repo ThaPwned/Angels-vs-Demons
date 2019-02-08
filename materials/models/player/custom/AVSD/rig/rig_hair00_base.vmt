@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/AVSD/rig/rig_hair00_base"
+$translucent "1"		
+}

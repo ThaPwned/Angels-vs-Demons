@@ -1,0 +1,120 @@
+{
+    "quest1":{
+        "count": 9,
+        "requirements":[
+            {
+                "type": "kill",
+                "count": [1, 50, 100, 250, 500, 1000, 2500, 5000, 10000]
+            }
+        ],
+        "rewards":{
+            "xp": [50, 200, 325, 375, 450, 500, 750, 1250, 2500],
+            "cash": [15000, 50000, 75000, 125000, 250000, 500000, 750000, 1000000, 2500000]
+        },
+        "format":{
+            "kills":"kill"
+        }
+    },
+    "quest20":{
+        "reset": "every().sunday.at(5:00)",
+        "requirements":[
+            {
+                "type": "visit_map",
+                "count": 5,
+                "map": "avsd_skycastle"
+            }
+        ],
+        "rewards":{
+            "xp": 1250,
+            "cash": 50000
+        }
+    },
+    "quest21":{
+        "reset": "every().sunday.at(5:00)",
+        "requirements":[
+            {
+                "type": "visit_map",
+                "count": 5,
+                "map": "avsd_mistisles"
+            }
+        ],
+        "rewards":{
+            "xp": 1250,
+            "cash": 50000
+        }
+    },
+    "quest22":{
+        "reset": "every().sunday.at(5:00)",
+        "requirements":[
+            {
+                "type": "visit_map",
+                "count": 5,
+                "map": "avsd_killbox"
+            }
+        ],
+        "rewards":{
+            "xp": 1250,
+            "cash": 50000
+        }
+    },
+    "quest23":{
+        "reset": "every().sunday.at(5:00)",
+        "requirements":[
+            {
+                "type": "visit_map",
+                "count": 5,
+                "map": "avsd_ancienttemple"
+            }
+        ],
+        "rewards":{
+            "xp": 1250,
+            "cash": 50000
+        }
+    },
+    "quest24":{
+        "reset": "every().sunday.at(5:00)",
+        "requirements":[
+            {
+                "type": "visit_map",
+                "count": 5,
+                "map": "avsd_desertedlands"
+            }
+        ],
+        "rewards":{
+            "xp": 1250,
+            "cash": 50000
+        }
+    },
+    "quest3":{
+        "reset": ["every().day.at(5:00)", "every().monday", "every().monday", "every().monday", "every().monday", "every().monday"],
+        "count": 6,
+        "requirements":[
+            {
+                "type": "play_time",
+                "count": [30, 120, 240, 520, 720, 1440]
+            }
+        ],
+        "rewards":{
+            "crystal":[1, 0, 2, 3, 5, 5],
+            "cash":[25000, 25000, 35000, 50000, 75000, 100000]
+        }
+    },
+    "quest_angle_unlock":{
+        "requirements":[
+            {
+                "type": "kill",
+                "count": 1000,
+                "enemy": 2
+            }
+        ]
+    },
+    "quest_demon_unlock":{
+        "requirements":[
+            {
+                "type": "kill",
+                "count": 1000,
+                "enemy": 3
+            }
+        ]
+    }
+}

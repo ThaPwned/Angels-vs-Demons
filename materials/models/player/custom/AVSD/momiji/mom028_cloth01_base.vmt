@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/AVSD/momiji/mom028_cloth01_base"
+	"$bumpmap" "models/player/custom/AVSD/momiji/mom028_cloth01_nrm"
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+$nocull "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".7"		
+}

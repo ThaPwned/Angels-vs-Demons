@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/AVSD/rig/rig_dlcu_005_base_01_K"
+	"$bumpmap" "models/player/custom/AVSD/rig/rig_dlcu_005_nrm_01"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".7"			
+}
